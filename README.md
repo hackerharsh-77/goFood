@@ -26,19 +26,16 @@ This project is used to manage wastage foods in a useful way. Every day the peop
 
 <h2 align= "left"><b>Have Fun with our Product : </b></h2>
 
-* Website Link : [Click Here](https://sw-b06-sharks.vercel.app/) <br>
-<!-- ![KisanRakshak](https://user-images.githubusercontent.com/52796258/138211549-a6241b44-2d9c-4d7e-9684-1f537b760126.png)
-* Youtube Demo : [Video Demo](https://youtu.be/y-l8Hd6q7lw) 
+* Website Link : [Click Here]() <br>
 
- ##### References(APIs Used) : 
- * Weather API : [Weather](https://openweathermap.org/)
- * Flask Backend(Made by Team) : [API](http://suvoo.pythonanywhere.com/) -->
 
 
 <h2 align= "left"><b>Tech Stack Used : </b></h2>
 
 - ReactJS
-- Tailwind CSS
+- Bootstrap
+- Express JS
+- MongoDB
 
 
 
@@ -52,11 +49,11 @@ This project is used to manage wastage foods in a useful way. Every day the peop
 Harsh
 
 <p align="center">
-<img src = "https://avatars.githubusercontent.com/u/77778261?v=4"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
+<img src = "https://raw.githubusercontent.com/sakshishruti/goFood/main/public/img/team/team-3.jpg?token=GHSAT0AAAAAABVHQ72GIO6IX6AFSZLXA5U4YVYAVOQ"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
 </p>
 <p align="center">
 <a href = "https://github.com/hackerharsh-77"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/namannj15">
+<a href = "linkedin.com/in/harsh-r-594195200">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
@@ -67,11 +64,11 @@ Harsh
 Anurag Riswadkar
 
 <p align="center">
-<img src = "https://avatars.githubusercontent.com/u/52818067?v=4"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
+<img src = "https://raw.githubusercontent.com/sakshishruti/goFood/main/public/img/team/team-2.jpeg?token=GHSAT0AAAAAABVHQ72HPTCWY5VGEVERUCLWYVYAVJQ"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
 </p>
 <p align="center">
-<a href = "https://github.com/yashjoshi007"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/yash-joshi-b4351918b/">
+<a href = "https://github.com/AnuragR31"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/anurag-riswadkar-519589228">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
@@ -84,7 +81,7 @@ Anurag Riswadkar
 Sakshi Shruti
 
 <p align="center">
-<img src = "https://avatars.githubusercontent.com/u/71082882?v=4"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
+<img src = "https://raw.githubusercontent.com/sakshishruti/goFood/main/public/img/team/team-1.jpeg?token=GHSAT0AAAAAABVHQ72G63BT4MCBGPHHNQGOYVYASAA"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
 </p>
 <p align="center">
 <a href = "https://github.com/sakshishruti"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
