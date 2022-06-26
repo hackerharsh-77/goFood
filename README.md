@@ -49,7 +49,7 @@ This project is used to manage wastage foods in a useful way. Every day the peop
 Harsh
 
 <p align="center">
-<img src = "https://raw.githubusercontent.com/sakshishruti/goFood/main/public/img/team/team-3.jpg?token=GHSAT0AAAAAABVHQ72GIO6IX6AFSZLXA5U4YVYAVOQ"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
+<img src = "https://lh3.googleusercontent.com/2GRHQ3iZz33dL6_GDAUyf1S3W-daBKFNI_eSnvcg1EPN3MudAK0M9A9Aoo3Sg0mfItzQVA=s85"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
 </p>
 <p align="center">
 <a href = "https://github.com/hackerharsh-77"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
@@ -64,7 +64,7 @@ Harsh
 Anurag Riswadkar
 
 <p align="center">
-<img src = "https://raw.githubusercontent.com/sakshishruti/goFood/main/public/img/team/team-2.jpeg?token=GHSAT0AAAAAABVHQ72HPTCWY5VGEVERUCLWYVYAVJQ"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
+<img src = "https://lh3.googleusercontent.com/BJ0sAyFl8VMKIsuz7rSp5mym0m3hjnwZ0UzNHanEQlz-ihmG8XO9i281gUxiWkNJlsVTiQ=s85"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
 </p>
 <p align="center">
 <a href = "https://github.com/AnuragR31"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
@@ -81,7 +81,7 @@ Anurag Riswadkar
 Sakshi Shruti
 
 <p align="center">
-<img src = "https://raw.githubusercontent.com/sakshishruti/goFood/main/public/img/team/team-1.jpeg?token=GHSAT0AAAAAABVHQ72G63BT4MCBGPHHNQGOYVYASAA"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
+<img src = "https://lh3.googleusercontent.com/PqjNLSKovjRizOZTc8IEHdABILgJV8dBF4V2wrH5dwSFxWenVi1EKdmPuUZv-DoEh5pm6Q=s85"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
 </p>
 <p align="center">
 <a href = "https://github.com/sakshishruti"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
